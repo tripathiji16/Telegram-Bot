@@ -8,11 +8,11 @@
 
 **Usage**
 
-*1. Create a bot on Telegram Application using BotFather.
+*1. Create a bot on Telegram Application using BotFather.*
 
 *2. Type /help to see all possible commands the botfather can handle.*
 
-*3. Click on or type /newbot to create a new bot.Follow instructions and make a new name for your bot. If you are making a bot just for experimentation, it can be useful to namespace your bot by placing your name before it in its username, since it has to be a unique name. * 
+*3. Click on or type /newbot to create a new bot.Follow instructions and make a new name for your bot. If you are making a bot just for experimentation, it can be useful to namespace your bot by placing your name before it in its username, since it has to be a unique name.* 
 
 *4. The newly created token will be used for the following steps.*
 
