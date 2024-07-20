@@ -20,7 +20,7 @@
 
 *6. You can run this server on your local machine by running node index.js. If everything goes fine, you should see the message “Telegram app listening on port 3000!” printed on your console.*
 
-*7. We have used Vercel(cloud platform designed to streamline the development, deployment, and scaling of web projects), create your account before execution. Use 'npm install -g vercel' command on terminal for intallation.*
+*7. We have used Vercel(cloud platform designed to streamline the development, deployment, and scaling of web projects), create your account before execution. Use 'npm install -g vercel' command on terminal for installation.*
 
 *8. Use the curl command to set up the Telegram webhook, replacing <your_api_token> with your actual Telegram API token and <your_project_url> with the URL- 'curl -F "url=https://<your_project_url>/api/new-message" https://api.telegram.org/bot<your_api_token>/setWebhook'*
 
